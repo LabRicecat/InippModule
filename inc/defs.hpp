@@ -8,6 +8,7 @@
 #define MEOWSCRIPT_VERSION_STR std::to_string(MEOWSCRIPT_VERSION_MAJOR) + "." + std::to_string(MEOWSCRIPT_VERSION_MINOR) + "." + std::to_string(MEOWSCRIPT_VERSION_MINOR)
 
 #define MEOWSCRIPT_HEADER_BEGIN namespace MeowScript {
+    
 #define MEOWSCRIPT_HEADER_END }
 
 #define MEOWSCRIPT_SOURCE_FILE using namespace MeowScript;
