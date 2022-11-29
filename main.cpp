@@ -1,5 +1,5 @@
 #include "../inc/meowscript.hpp"
-#include "../catmods/inipp/Inipp.h"
+#include "../catmods/inipp/Inipp.hpp"
 
 MEOWSCRIPT_MODULE
 
